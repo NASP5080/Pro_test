@@ -1,0 +1,121 @@
+
+/* main body design and layout? */
+body {
+	background: black; /* Fallback color */
+	font-family: "Montserrat", sans-serif;
+	color: white; /* Text color*/
+	margin: 0;
+	padding: 0px;
+	background-image: linear-gradient(to bottom, #009ffd, #2a2a72);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%; /* Determines gradient height */
+	width: 100%;
+}
+/* --------- */
+
+
+/* body tag for gradient */
+.body_one {
+	
+}
+
+.name {
+	font-size: 1.3em;
+	font-style: none;
+	font-weight: 900;
+	padding: 50px 75px 0px;
+	text-transform: uppercase;
+
+	list-style-type: none;
+	margin: 0;
+}
+
+.title {
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: 900;
+	padding-top: 200px;
+	padding-left: 75px;
+}
+
+	.fr_underline {
+		border-bottom: 5px solid white;
+	}
+
+.small_title {
+	font-weight: 300;
+	padding-left: 75px;
+	padding-bottom: 550px;
+}
+
+/* Resume Class */
+
+.resume {
+	border: 1px solid black;
+}
+
+.resume h3 {
+	font-weight: 900;
+	font-size: 3.5em;
+	/*padding-top: 500px; */
+	padding-left: 75px;
+	text-decoration: underline;
+}
+
+.resume h4 {
+	padding-left: 75px;
+	font-size: 1.6em;
+	font-weight: 900;
+}
+
+.resume h5 {
+	padding-left: 75px;
+	font-size: 1em;
+	font-weight: 900;
+}
+
+.resume ul {
+	padding-left: 75px;
+	text-align: start;	
+}
+
+.resume li {
+	list-style-type: none;
+	margin-top: 1em;
+	font-size: 1.1em;
+}
+
+.fa-regular {
+	padding-left: 75px;
+	padding-bottom: 75px;
+	font-size: 6em;
+	text-decoration: none;
+}
+
+.resume a {
+	text-decoration: none;
+	color: inherit;
+}
+
+/* Profolio */
+
+.profolio {
+
+}
+
+.portfolio h3 {
+	font-weight: 900;
+	font-size: 3.5em;
+	padding-left: 75px;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+/*footer*/
